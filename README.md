@@ -19,7 +19,7 @@ Los datos provienen de la **Dirección de Control de Enfermedades Inmunoprevenib
 - **Lenguaje:** Python 3
 - **Manipulación de Datos:** Pandas
 - **Visualización:** Matplotlib y Seaborn
-- **Entorno:** Jupyter Notebook / Google Colab
+- **Entorno:** Google Colab
 
 ## Pasos Realizados
 1. **Importación:** Carga del dataset desde un archivo local en formato CSV.
