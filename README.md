@@ -1,5 +1,5 @@
 # Data-Science-II
-# Análisis del Impacto de la Vacunación y Casos de Sarampión en la Provincia de Buenos Aires 🦠💉
+# Análisis del Impacto de la Vacunación y Casos de Sarampión en la Provincia de Buenos Aires 
 
 ## Abstracto
 **Motivación:** El sarampión es una enfermedad altamente contagiosa que requiere al menos un 95% de cobertura de vacunación para mantener la "inmunidad de rebaño". Este proyecto analiza el histórico de cobertura de la vacuna Triple Viral (SRP) en la Provincia de Buenos Aires utilizando datos oficiales del Ministerio de Salud (2009-2018). El objetivo a largo plazo es cruzar estos datos con registros de contagios para entrenar un modelo predictivo capaz de identificar riesgos epidemiológicos.
